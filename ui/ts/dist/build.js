@@ -20,4 +20,5 @@ var vec2 = /** @class */ (function () {
     return vec2;
 }());
 /// <reference path="./vectors.ts" />
-console.log('hello');
+var electron = require('electron');
+console.log(electron);

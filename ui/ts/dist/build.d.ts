@@ -9,3 +9,4 @@ declare class vec2 {
     y: number;
     constructor(x?: number, y?: number);
 }
+declare const electron: any;

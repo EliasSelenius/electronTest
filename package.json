@@ -4,6 +4,7 @@
   "description": "just a test",
   "main": "index.js",
   "scripts": {
+    "tswatch": "tsc -w -p ./ui/ts/tsconfig.json",
     "start": "electron ."
   },
   "author": "Elias Selenius",

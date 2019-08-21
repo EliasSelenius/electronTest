@@ -1,4 +1,7 @@
 
 /// <reference path="./vectors.ts" />
 
-console.log('hello');
+const electron = require('electron');
+
+console.log(electron);
+
